@@ -1,0 +1,19 @@
+.brands-card {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    margin-bottom: 2rem;
+    background-color: white;
+    box-shadow: 0 6px 10px rgba(56, 125, 255, 0.17);
+    -webkit-filter: drop-shadow(0 6px 10px rgba(56, 125, 255, 0.017));
+    filter: drop-shadow(0 6px 10px rgba(56, 125, 255, 0.017));
+}
+
+.logo {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    color: #000;
+    object-fit: contain;
+}
