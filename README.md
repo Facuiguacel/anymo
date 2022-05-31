@@ -12,7 +12,7 @@ Además de la página que ve el consumidor para comprar o suscribirse a las caja
 **Base de datos** creada con `MySQL`.
 
 Equipo:
-- **Ivo Ortiz** (Desarrollador Frontend, Análisis y Diseño)
+- **Ivo Ortiz** (Desarrollador Frontend, Investigación, Análisis y Diseño)
 - **Tobias Vodopivec** (Investigación, Análisis y Diseño)
 - **Facundo Iguacel** (Desarrollador Frontend y Backend, Análisis y Diseño)
 - **Ignacio Markovich** (Investigación, Análisis y Diseño)
